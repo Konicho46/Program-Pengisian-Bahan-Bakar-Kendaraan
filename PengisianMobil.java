@@ -1,6 +1,3 @@
-//C14210301_Nicholas Nathanael Suhendar
-package com.pbo.praktikum1;
-
 class Kendaraan{
     String namaMobil;
     String merkMobil;
